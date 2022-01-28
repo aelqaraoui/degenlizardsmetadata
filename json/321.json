@@ -1,0 +1,39 @@
+{
+  "name": "DEGEN Lizards #321",
+  "description": "DEGEN Lizards is a collection of 1000 lizards DEGENING around on the NEARverse. We're building NEAR's first casino and sharing all profits with our holders.",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Gold Cross"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Night Vision Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cig"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mortarboard"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    }
+  ]
+}
