@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mint"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "White Tshirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "White Walker"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Zombie"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Bandana"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "Silver Earring"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

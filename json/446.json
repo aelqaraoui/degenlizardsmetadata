@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mint"
+      "value": "Blood"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Flannel"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Silver Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Tooth"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Planet"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "Silver Earring"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BLOOD"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pale Pink"
+      "value": "Silver"
     },
     {
       "trait_type": "Body",
-      "value": "Robot"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Poncho"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Brain"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

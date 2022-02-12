@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pale Pink"
+      "value": "Sea"
     },
     {
       "trait_type": "Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Black Gi"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Stoned"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blunt"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BLACK SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Peaker Blinders"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

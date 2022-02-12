@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ocean"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Black Gi"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Red Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "SUIT"
     },
     {
       "trait_type": "Head",
-      "value": "Black Top Hat"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

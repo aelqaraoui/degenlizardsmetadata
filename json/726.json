@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cool Blue"
+      "value": "Lavender"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Dracula Cape"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Tron"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Red Split Tongue"
+      "value": "Zombie"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BLACK SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Forewards Cap"
+      "value": "CROWN"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

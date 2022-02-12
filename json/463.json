@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mint"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Construction Vest"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Silver Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Bubblegum"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "COAT WITH SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Moon"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "Gold Earring"
+      "trait_type": "Eyes",
+      "value": "3D GLASS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BLOOD"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

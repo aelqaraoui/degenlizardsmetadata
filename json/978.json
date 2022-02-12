@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Bubblegum"
+      "value": "Golden"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BLACK SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Feathered Cap"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SPECS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Normal"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Jersey"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Original"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "SUIT"
     },
     {
       "trait_type": "Head",
-      "value": "Backwards Cap"
+      "value": "HEADBAND"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "LASER EYES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

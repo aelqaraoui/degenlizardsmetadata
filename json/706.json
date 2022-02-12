@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ocean"
+      "value": "Normal"
     },
     {
       "trait_type": "Body",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Tooth"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Black Top Hat"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "3D GLASS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BLOOD"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

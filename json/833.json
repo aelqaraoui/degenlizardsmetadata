@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Fog"
+      "value": "Blood"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Green Tshirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Tooth"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BLACK SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Forewards Cap"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

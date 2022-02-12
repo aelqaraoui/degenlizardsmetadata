@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Silver"
     },
     {
       "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Gold Cross"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Gold Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Small Tongue"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Teardrop Tattoo"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "COAT WITH SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Bandana"
+      "value": "HEADBAND"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

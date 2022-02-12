@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mint"
+      "value": "Sea"
     },
     {
       "trait_type": "Body",
-      "value": "Robot"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Nudist"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Gold Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Original"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Peaker Blinders"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SPECS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

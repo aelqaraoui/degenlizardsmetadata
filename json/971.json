@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Albedo"
     },
     {
       "trait_type": "Body",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Military Vest"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Red Split Tongue"
+      "value": "Golden"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "COAT WITH SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

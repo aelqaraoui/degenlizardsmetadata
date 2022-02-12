@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ocean"
+      "value": "Silver"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Poncho"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Small Tongue"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Cross Tattoo"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Horns"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

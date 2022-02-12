@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pale Pink"
+      "value": "Blood"
     },
     {
       "trait_type": "Body",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Firefighter"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blunt"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Horns"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

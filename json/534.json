@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pale Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Sword"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BLACK SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Feathered Cap"
+      "value": "HEADBAND"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "3D GLASS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "RAINBOW"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

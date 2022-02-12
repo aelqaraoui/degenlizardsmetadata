@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sunflower"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Leather Jacket"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Silver Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Bubblegum"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Helmet"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SPECS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BLOOD"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

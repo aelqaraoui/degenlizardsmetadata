@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Chainmail"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Tron"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Tooth"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Fisherman"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "Silver Earring"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BLOOD"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

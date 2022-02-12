@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mint"
+      "value": "Albedo"
     },
     {
       "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Nudist"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Small Tongue"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "SUIT"
     },
     {
       "trait_type": "Head",
-      "value": "Red Planet"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

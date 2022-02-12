@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ocean"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Prison Jumpsuit"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "White Walker"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "SUIT"
     },
     {
       "trait_type": "Head",
-      "value": "Black Fedora"
+      "value": "BRAIN"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SPECS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BLOOD"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

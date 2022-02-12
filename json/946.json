@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ocean"
+      "value": "Midnight Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Supreme Shirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Stoned"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Tooth"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Fisherman"
+      "value": "HEADBAND"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "LASER EYES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

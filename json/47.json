@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Cronos"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Vipers"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Cross Tattoo"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Black Beanie"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SPECS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sunflower"
+      "value": "Albedo"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Sailor Shirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Cross Tattoo"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Feathered Cap"
+      "value": "BRAIN"
     },
     {
-      "trait_type": "Earring",
-      "value": "Silver Earring"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

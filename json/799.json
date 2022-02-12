@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Fog"
+      "value": "Normal"
     },
     {
       "trait_type": "Body",
-      "value": "Albino"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Jersey"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blue Split Tongue"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "SUIT"
     },
     {
       "trait_type": "Head",
-      "value": "Black Fedora"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "LASER EYES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

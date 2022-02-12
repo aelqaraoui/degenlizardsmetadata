@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sunflower"
+      "value": "Blood"
     },
     {
       "trait_type": "Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Red Tshirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Silver Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blue Split Tongue"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pale Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Robot"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Firefighter"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "White Walker"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blunt"
+      "value": "Original"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Cross Tattoo"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Beige Top Hat"
+      "value": "BRAIN"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Silver"
     },
     {
       "trait_type": "Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Chainmail"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "VR Glasses"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Lightbulb"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

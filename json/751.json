@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cool Blue"
+      "value": "Normal"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Military Vest"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Gold Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Red Split Tongue"
+      "value": "Golden"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "COAT WITH SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Construction Hat"
+      "value": "BRAIN"
     },
     {
-      "trait_type": "Earring",
-      "value": "Silver Earring"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

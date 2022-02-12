@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sunflower"
+      "value": "Lavender"
     },
     {
       "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grey Hoodie"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Vipers"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Albino"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "WINTER COAT"
     },
     {
       "trait_type": "Head",
-      "value": "Mortarboard"
+      "value": "BRAIN"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

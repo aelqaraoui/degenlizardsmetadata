@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Midnight Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Albino"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Blue Suit"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Silver Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Golden"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Teardrop Tattoo"
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Peaker Blinders"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }

@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cool Blue"
+      "value": "Blood"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Grey Hoodie"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Stoned"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blue Split Tongue"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Cross Tattoo"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Lightbulb"
+      "value": "FEDORA"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "3D GLASS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "RAINBOW"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

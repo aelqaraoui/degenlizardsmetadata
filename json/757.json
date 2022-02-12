@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ocean"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Firefighter"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "White Walker"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
+      "value": "Original"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "Feathered Cap"
+      "value": "HEADBAND"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "GOLD SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CIGARETTE"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

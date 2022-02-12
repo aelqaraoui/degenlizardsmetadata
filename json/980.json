@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sunflower"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Cronos"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "Supreme Shirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Morpheus"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Tooth"
+      "value": "Silver"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Teardrop Tattoo"
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "HOODIE"
     },
     {
       "trait_type": "Head",
-      "value": "White Fedora"
+      "value": "BEANIE"
     },
     {
-      "trait_type": "Earring",
-      "value": "Silver Earring"
+      "trait_type": "Eyes",
+      "value": "NORMAL SPECS"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gold earrings"
     }
   ]
 }

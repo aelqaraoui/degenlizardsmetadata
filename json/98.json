@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rust"
+      "value": "Midnight Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Alien"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "White Gi"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Gold Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blue Split Tongue"
+      "value": "Original"
     },
     {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "Tear"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "BLACK SHIRT"
     },
     {
       "trait_type": "Head",
-      "value": "Moon"
+      "value": "HEADBAND"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "NORMAL SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SILVER TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "NEAR earrings"
     }
   ]
 }

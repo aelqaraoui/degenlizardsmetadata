@@ -5,35 +5,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Sunflower"
+      "value": "Normal"
     },
     {
       "trait_type": "Body",
       "value": "Albino"
     },
     {
-      "trait_type": "Shirt",
-      "value": "White Tshirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Red Shades"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
-    },
-    {
       "trait_type": "Tattoo",
-      "value": "None"
+      "value": "NEAR"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "SUIT"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Bandana"
+      "value": "CROWN"
     },
     {
-      "trait_type": "Earring",
-      "value": "None"
+      "trait_type": "Eyes",
+      "value": "SILVER SHADES"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GOLD TEETH"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Silver earrings"
     }
   ]
 }
